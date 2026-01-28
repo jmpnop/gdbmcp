@@ -17,7 +17,7 @@ Requires Python 3.8+ and GDB.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gdbmcp.git
+git clone https://github.com/jmpnop/gdbmcp.git
 cd gdbmcp
 
 # Make executable
